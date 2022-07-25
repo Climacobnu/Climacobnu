@@ -1,10 +1,12 @@
-## Olá! Eu sou o Leandro Climaco.
+
+🙋‍♂️ Olá, meu nome é Leandro Climaco. Sou Desenvolvedor Fullstack formado em sistemas de informação.
 
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/3d6a2b97034aa17782caafceb86f4d30.gif" width="300" height="240" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 
-- 📚 Estudante de Desenvolvimento Fullstack.
-- 🔎 Buscando novas oportunidades.
-- 🖼 São José - SC / Brasil
+🦄 Habilidades: HTML, CSS, Javascript.
+
+💼 Ferramentas: VSCode, Trello, Git e GitHub.
+
 
 
 <div align="center">
