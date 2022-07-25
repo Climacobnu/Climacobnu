@@ -7,7 +7,7 @@
 
 💼 Ferramentas: VSCode, Trello, Git e GitHub.
 
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/3d6a2b97034aa17782caafceb86f4d30.gif" width="300" height="240" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+<!-- <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/3d6a2b97034aa17782caafceb86f4d30.gif" width="300" height="240" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a> -->
 
 computer-illustration.png
 
