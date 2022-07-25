@@ -1,5 +1,7 @@
 
-🙋‍♂️ Olá, meu nome é Leandro Climaco. Sou Desenvolvedor Fullstack formado em sistemas de informação.  <a src="computer-illustration.png" width="300" height="240" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="">
+
+🙋‍♂️ Olá, meu nome é Leandro Climaco. Sou Desenvolvedor Fullstack formado em sistemas de informação.  
 
 🦄 Habilidades: HTML, CSS, Java e Javascript.
 
