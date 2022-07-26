@@ -17,6 +17,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Climacobnu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+  div align="center">
+  <a href="https://github.com/Climacobnu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?usernameClimacobnu&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Climacobnu&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
+<br>
+  
   
 <h2 align="center"> Hard Skills 💻 </h2>
 <br>
