@@ -11,12 +11,13 @@
 
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/3d6a2b97034aa17782caafceb86f4d30.gif" width="300" height="240" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 
-<div align="center">
-  <a href="https://github.com/Climacobnu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Climacobnu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Climacobnu&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
   
+  <div align="center">
+  <a href="https://github.com/Climacobnu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Climacobnu&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Climacobnu&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
 
 <br>
   
