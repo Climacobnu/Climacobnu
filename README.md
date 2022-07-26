@@ -8,7 +8,7 @@
 
 💼 Ferramentas: VSCode, Trello, Git e GitHub.
 
-<br> <br>
+<br> <br> <br>
 
   
   <div align="center">
