@@ -14,7 +14,7 @@
 
 🙋‍♂️ Desenvolvedor Fullstack formado em sistemas de informação.  
 
-🦄 Habilidades: HTML, CSS, Java e Javascript.
+🏆 Habilidades: HTML, CSS, Java e Javascript.
 
 💼 Ferramentas: VSCode, Trello, Git e GitHub.
 
