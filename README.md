@@ -16,7 +16,7 @@
 
 🏆 Habilidades: HTML, CSS, Java e Javascript.
 
-💼 Ferramentas: VSCode, Trello, Git e GitHub.
+🛠 Ferramentas: VSCode, Trello, Git e GitHub.
 
 <br> <br> <br>
 
