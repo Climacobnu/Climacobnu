@@ -12,7 +12,7 @@
 <br>
 
 
-🙋‍♂️ Desenvolvedor Fullstack formado em sistemas de informação.  
+🙋‍♂️ Desenvolvedor Fullstack 
 
 🏆 Habilidades: HTML, CSS, Java e Javascript.
 
